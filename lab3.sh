@@ -1,4 +1,4 @@
 #!/bin/bash
-touch aaaaa.txt
-chmod 400 aaaaa.txt
-scp aaaaa.txt  mazhuga@mephisto:/home/students/17200/mazhuga 
+touch aaaa.txt
+chmod 400 aaaa.txt
+scp aaaa.txt  mazhuga@mephisto:/home/students/17200/mazhuga 
